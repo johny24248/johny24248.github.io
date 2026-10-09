@@ -1,0 +1,20 @@
+Privacy Policy
+
+This privacy policy applies to the mobile games developed by [FatDev] as an individual indie developer. 
+
+1. Information Collection and Use
+Our games use third-party services that may collect information used to identify you. We do not personally collect, store, or share any personal data. However, our third-party advertising partner, Google AdMob, may automatically collect data such as your device's advertising ID, IP address, and device characteristics to personalize and serve advertisements.
+
+2. Third-Party Links and Services
+Our games include integration with Google AdMob. For more details on how Google handles your information, please review the Google Privacy Policy & Terms here: https://google.com
+
+3. Children’s Privacy
+Our games do not knowingly collect personal identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided personal information via ad identifiers, please contact us so that we can take necessary actions.
+
+4. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. 
+
+5. Contact Us
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at [johnyodackal@gmail.com].
+
+Last Updated: [OCTOBER 2026]
